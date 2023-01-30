@@ -262,10 +262,7 @@ contact.html
 ```
 
 ## OUTPUT:
-![image](https://user-images.githubusercontent.com/118668751/215396949-c0a6e387-a08b-4325-8837-6ca065a1cb83.png)
-![image](https://user-images.githubusercontent.com/118668751/215396977-d15c19fb-72c2-4f25-b779-c7e7dc87f225.png)
-![image](https://user-images.githubusercontent.com/118668751/215397003-76547b0e-a1dc-49bc-9ea6-2b9dff6b8ec3.png)
-![image](https://user-images.githubusercontent.com/118668751/215397016-fc36a4b6-b08e-48dd-903f-0a63960daa69.png)
+
 
 
 ### Home Page:
